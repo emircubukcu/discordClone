@@ -3,7 +3,7 @@ DiscordClone, popüler Discord uygulamasının temel özelliklerini taklit eden 
 
 ## Ekran Görüntüsü
 
-![alt text](https://github.com/emircubukcu/discordClone/blob/main/public/readMe-1.png,"")
+![alt text](https://github.com/emircubukcu/discordClone/blob/main/public/readMe-1.png "")
 
 ## Demo
 Demo olarak proje Vault ismi ile birlikte [burdaki](https://vault-production-5044.up.railway.app) adres içerisinde erişilebilmektedir.
