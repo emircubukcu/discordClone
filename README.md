@@ -23,3 +23,5 @@ Proje aşağıdaki teknolojilerle geliştirilmiştir:
 - [Prisma](https://www.prisma.io/): Veri tabanı ORM arayüzü
 - [TailwindCSS](https://tailwindcss.com/): CSS çerçevesi
 - [ShadCN](https://shadcn.dev/): UI bileşenleri
+- [Clerk](https://clerk.com): Kullanıcı kayıt ve giriş işlemleri için
+- [UploadThing](https://uploadthing.com/): Sunucu resimleri ve mesajlar ile gönderilen belge ve resimler için
