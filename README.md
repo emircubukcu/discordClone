@@ -2,7 +2,7 @@
 DiscordClone, popüler Discord uygulamasının temel özelliklerini taklit eden bir iletişim platformu uygulamasıdır. Bu proje, kullanıcıların sohbet kanalları oluşturması, mesajlaşması ve gerçek zamanlı olarak diğer kullanıcılarla etkileşime geçmesini sağlar.
 
 ## Demo
-Demo olarak proje Vault ismi ile birlikte [burdaki](vault-production-5044.up.railway.app) adres içerisinde erişilebilmektedir.
+Demo olarak proje Vault ismi ile birlikte [burdaki](https://vault-production-5044.up.railway.app) adres içerisinde erişilebilmektedir.
 
 ## Özellikler
 
