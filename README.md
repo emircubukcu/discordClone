@@ -1,5 +1,5 @@
-# DiscordClone
-DiscordClone, popüler Discord uygulamasının temel özelliklerini taklit eden bir iletişim platformu uygulamasıdır. Bu proje, kullanıcıların sohbet kanalları oluşturması, mesajlaşması ve gerçek zamanlı olarak diğer kullanıcılarla etkileşime geçmesini sağlar.
+# Vault
+Vault, popüler Discord uygulamasının temel özelliklerini taklit eden bir iletişim platformu uygulamasıdır. Bu proje, kullanıcıların sohbet kanalları oluşturması, mesajlaşması ve gerçek zamanlı olarak diğer kullanıcılarla etkileşime geçmesini sağlar.
 
 ## Ekran Görüntüsü
 
